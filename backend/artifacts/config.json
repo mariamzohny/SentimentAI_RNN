@@ -1,0 +1,11 @@
+{
+  "seq_len": 40,
+  "vocab_size": 12000,
+  "embedding_dim": 50,
+  "hidden_size": 144,
+  "classes": [
+    "negative",
+    "neutral",
+    "positive"
+  ]
+}
